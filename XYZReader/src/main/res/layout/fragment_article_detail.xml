@@ -19,7 +19,7 @@
             android:fitsSystemWindows="true"
             app:expandedTitleMarginStart="48dp"
             app:expandedTitleMarginEnd="64dp"
-            app:layout_scrollFlags="scroll|exitUntilCollapsed|enterAlways"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
             app:contentScrim="@color/gray">
 
             <ImageView
