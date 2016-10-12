@@ -1,2 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c4caf832116bca1f2e140bf1fb600e2edd190837">
+        <dex dex="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-22.2.1_544bfc75a322acb1b325ab2c5d0301b9b8f83b6d.jar" />
+    </item>
+    <item
+        jar="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_da8aaa6c5b8612a0846c6bfbe8cca7fa9fea191a.jar" />
+    </item>
+    <item
+        jar="/home/nishtha/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_e0e38e6aac9b8e0bf9a08a3715d42a13814c6329.jar" />
+    </item>
+    <item
+        jar="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-22.2.1_6ded3f2884ce63c307407f910536077a53e2b25e.jar" />
+    </item>
+    <item
+        jar="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley_c746d8856fce723b2d055da9cbcba84f1ba9f359.jar" />
+    </item>
+    <item
+        jar="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6fc4c7067459e8d69e1bbcb3a8973cdd84d5d87b">
+        <dex dex="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_c99210222b4fc8048864dd9d9f5fc03b1f431c61.jar" />
+    </item>
+    <item
+        jar="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-22.0.0_8f3b4415ab249596978bddf2fc18d50d80b47253.jar" />
+    </item>
+    <item
+        jar="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.2.1_e500db08f2b51eb4f2ca31b8132aa10c5a7eb692.jar" />
+    </item>
+    <item
+        jar="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.1_287f6a353fed64caf1c1a5f3fbeeca4527a6f61a.jar" />
+    </item>
+    <item
+        jar="/home/nishtha/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_3648934998f1b11f33a7bf77ec6c17274d443b0c.jar" />
+    </item>
+    <item
+        jar="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_a68eead54cfa86d6abac60d4c79e00098c9db50d.jar" />
+    </item>
+    <item
+        jar="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-design-22.2.0_39d8ce15de6f674fe84048b39a93612ac6eda5a2.jar" />
+    </item>
+    <item
+        jar="/home/nishtha/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/nishtha/Desktop/udacity/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_14b1b148758ce07b66bb19a779b7c32a5cd1f41a.jar" />
+    </item>
+
+</items>
