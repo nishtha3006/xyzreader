@@ -9,6 +9,7 @@
     <android.support.design.widget.AppBarLayout
         android:id="@+id/toolbar_container"
         android:layout_width="match_parent"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
         android:layout_height="256dp">
 
         <android.support.design.widget.CollapsingToolbarLayout
@@ -16,9 +17,9 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:fitsSystemWindows="true"
-            app:collapsedTitleTextAppearance="@color/white"
-            app:expandedTitleTextAppearance="@color/white"
-            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            app:expandedTitleMarginStart="48dp"
+            app:expandedTitleMarginEnd="64dp"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed|enterAlways"
             app:contentScrim="@color/gray">
 
             <ImageView
@@ -27,16 +28,13 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fitsSystemWindows="true"
-                android:minHeight="150dp"
                 android:scaleType="centerCrop"
                 app:layout_collapseMode="parallax" />
 
             <android.support.v7.widget.Toolbar
                 android:id="@+id/toolbar"
-                android:title="XYZreader"
                 android:layout_width="match_parent"
                 android:layout_height="?actionBarSize"
-                android:theme="@style/Theme.Bacon"
                 android:elevation="@dimen/appbar_elevation"
                 app:layout_collapseMode="pin" />
 
