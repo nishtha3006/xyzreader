@@ -16,10 +16,10 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:fitsSystemWindows="true"
-            app:collapsedTitleTextAppearance="@color/primary"
-            app:expandedTitleTextAppearance="@color/primary"
+            app:collapsedTitleTextAppearance="@color/white"
+            app:expandedTitleTextAppearance="@color/white"
             app:layout_scrollFlags="scroll|exitUntilCollapsed"
-            app:contentScrim="?attr/colorPrimary">
+            app:contentScrim="@color/gray">
 
             <ImageView
                 android:contentDescription="@string/app_name"
@@ -33,6 +33,7 @@
 
             <android.support.v7.widget.Toolbar
                 android:id="@+id/toolbar"
+                android:title="XYZreader"
                 android:layout_width="match_parent"
                 android:layout_height="?actionBarSize"
                 android:theme="@style/Theme.Bacon"
@@ -101,7 +102,7 @@
                 android:layout_marginLeft="@dimen/detail_inner_horiz_margin"
                 android:layout_marginRight="@dimen/detail_inner_horiz_margin"
                 android:paddingBottom="@dimen/detail_body_bottom_margin"
-                android:textColor="@color/primary"
+                android:textColor="@color/ltgray"
                 android:textColorLink="@color/theme_accent"
                 android:textSize="@dimen/detail_body_text_size"
                 android:lineSpacingMultiplier="@fraction/detail_body_line_spacing_multiplier" />
